@@ -1,1 +1,1 @@
-*.Raku linguist-detectable=false
+.Raku/** linguist-vendored
